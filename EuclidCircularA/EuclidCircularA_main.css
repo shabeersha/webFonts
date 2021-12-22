@@ -1,8 +1,8 @@
-@font-face {font-family: "Billabong";
-    src: url("http://db.onlinewebfonts.com/t/e721330050ecfe81b4e5455e1a308181.eot"); /* IE9*/
-    src: url("http://db.onlinewebfonts.com/t/e721330050ecfe81b4e5455e1a308181.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-    url("http://db.onlinewebfonts.com/t/e721330050ecfe81b4e5455e1a308181.woff2") format("woff2"), /* chrome firefox */
-    url("http://db.onlinewebfonts.com/t/e721330050ecfe81b4e5455e1a308181.woff") format("woff"), /* chrome firefox */
-    url("http://db.onlinewebfonts.com/t/e721330050ecfe81b4e5455e1a308181.ttf") format("truetype"), /* chrome firefox opera Safari, Android, iOS 4.2+*/
-    url("http://db.onlinewebfonts.com/t/e721330050ecfe81b4e5455e1a308181.svg#Billabong") format("svg"); /* iOS 4.1- */
+@font-face {font-family: "Euclid Circular A";
+  src: url("a575313c6dc4fd00c1a9506e1c3ea4fc.eot"); /* IE9*/
+  src: url("a575313c6dc4fd00c1a9506e1c3ea4fc.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("a575313c6dc4fd00c1a9506e1c3ea4fc.woff2") format("woff2"), /* chrome、firefox */
+  url("a575313c6dc4fd00c1a9506e1c3ea4fc.woff") format("woff"), /* chrome、firefox */
+  url("a575313c6dc4fd00c1a9506e1c3ea4fc.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("a575313c6dc4fd00c1a9506e1c3ea4fc.svg#Euclid Circular A") format("svg"); /* iOS 4.1- */
 }
